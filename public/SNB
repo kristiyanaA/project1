@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+  <link rel="stylesheet" href="mystyle.css">
+<title>Маникюр</title>
+<meta charset="utf-8">
+</head>
+  <div class = "header">
+<header>
+  <img src="logok.png">
+  <p>Материали <b>и</b> съвети</p>
+</header>
+</div>
+
+<body>
+<div class="navbar">
+  <a href="index.html">Начало</a>
+  <a href="gel lak.html">Secretly</a>
+  <a href="snb.html">SNB</a>
+  <a href="kodi.html">KODI</a>
+  <a href="bluesky.html">Bluesky</a>
+  <a href="instrumenti.html">Инструменти</a>
+   <a href="galeriq.html">Галерия</a>
+  <a href="zanas.html" class="right">За нас</a>
+</div>
+<h2>Secretly - гел лакове</h2>
+<div class="gallery">
+  <a target="_blank" href="snb1.jpg">
+    <img src="snb1.jpg" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc"></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="sec1.jpg">
+    <img src="sec1.jpg" alt="Forest" width="600" height="400">
+  </a>
+  <div class="desc">Марка SECRETLY
+Грамаж  15 мл.
+Цвят  котешко око/магнитен</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="sec2.jpg">
+    <img src="sec2.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Марка SECRETLY
+Грамаж  15 мл.
+Цвят  котешко око/магнитен</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="sec3.jpg">
+    <img src="sec3.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">Марка SECRETLY
+Грамаж  15 мл.
+Цвят  котешко око/магнитен</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="sec4.jpg">
+    <img src="sec4.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Марка SECRETLY
+Грамаж  15 мл.
+Цвят  котешко око/магнитен</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="sec4.jpg">
+    <img src="sec4.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Марка SECRETLY
+Грамаж  15 мл.
+Цвят  котешко око/магнитен</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="sec5.jpg">
+    <img src="sec5.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Марка SECRETLY
+Грамаж  15 мл.
+Цвят  котешко око/магнитен</div>
+</div>
+
+  <div class="gallery">
+  <a target="_blank" href="sec6.jpg">
+    <img src="sec6.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Марка SECRETLY
+Грамаж  15 мл.
+Цвят  телесно</div>
+</div>
+   <div class="gallery">
+  <a target="_blank" href="sec7.jpg">
+    <img src="sec7.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Марка SECRETLY
+Грамаж  15 мл.
+Цвят  коралово</div>
+</div>
+   <div class="gallery">
+  <a target="_blank" href="sec8.jpg">
+    <img src="sec8.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Марка SECRETLY
+Грамаж  15 мл.
+Цвят  телесно</div>
+</div>
+  <div class="gallery">
+  <a target="_blank" href="sec9.jpg">
+    <img src="sec9.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Марка SECRETLY
+Грамаж  15 мл.
+Цвят  оранжево</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="sec10.jpg">
+    <img src="sec10.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Марка SECRETLY
+Грамаж  15 мл.
+Цвят  червено</div>
+</div>
+<div class="footer">
+  <small><i>Copyright &copy; 2021 Kristiyana</i></small>
+</div>
+  
+</body>
+</html>
